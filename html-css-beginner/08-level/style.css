@@ -1,0 +1,41 @@
+td,th{
+    width: 40px;
+    height: 40px;
+}
+
+th{
+    background-color: whitesmoke;
+}
+
+td{
+    border: solid blue 1.5px;
+    text-align: center;
+    padding: 2px;
+}
+
+#element1{
+    background-color: orangered;
+    color: green;
+}
+
+.blue{
+    background-color: lightskyblue;
+}
+
+.purple{
+    background-color: plum;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.nummer{
+    font-size: 10px;
+    vertical-align: text-top;
+}
+
+td:hover{
+    cursor: pointer;
+    background-color: green;
+}

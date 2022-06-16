@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+    font-size: Larger;
+}
+
+h2 {
+    color: darkblue;
+    font-size: medium;
+}
+
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 500px;
+    height: 100px;
+}
+
+#overmij {
+    background-color: pink;
+}
+
+span.kleur {
+    color: red;
+}

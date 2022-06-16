@@ -1,0 +1,15 @@
+input {
+    border-radius: 5px;
+    display: block;
+}
+
+#textvlak {
+    border-color: red;
+    border-width: 5px;
+}
+
+#textvlak:focus {
+    border-color: green;
+    border-width: 5px;
+    outline: none;
+}

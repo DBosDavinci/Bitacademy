@@ -1,0 +1,46 @@
+h1 {
+    color: green;
+    font-size: 30px;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 20px;
+}
+
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 500px;
+    height: 100px;
+}
+
+#overmij {
+    background-color: pink;
+}
+
+span.kleur {
+    color: red;
+}
+
+.blogs {
+    background-color: brown;
+}
+
+header {
+    border-bottom: 1px solid #000000;
+}
+
+nav {
+    background-color: orange;
+    text-align: center;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
